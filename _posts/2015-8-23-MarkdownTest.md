@@ -11,16 +11,8 @@ comments: true
 mathjax: true
 ---
 
-Markdown: Syntax
-================
-
-<ul id="ProjectSubmenu">
-    <li><a href="/projects/markdown/" title="Markdown Project Page">Main</a></li>
-    <li><a href="/projects/markdown/basics" title="Markdown Basics">Basics</a></li>
-    <li><a class="selected" title="Markdown Syntax Documentation">Syntax</a></li>
-    <li><a href="/projects/markdown/license" title="Pricing and License Information">License</a></li>
-    <li><a href="/projects/markdown/dingus" title="Online Markdown Web Form">Dingus</a></li>
-</ul>
 
 $$ \left( \sum_{k=1}^n a_k b_k \right)^{!!2} \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right) $$
+
+按时发放萨达是发到
 
