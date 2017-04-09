@@ -4,6 +4,7 @@ logo:             omikron.png
 disqus_shortname: shortname
 # Assign a default image for your site's header and footer
 default_bg:       default_bg.jpg
+mathjax:          true
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -43,7 +44,7 @@ jekyll-archives:
 
 # Owner/author information
 author:
-  name:           Your Name
+  name:           zishuai
   picture:        your-photo.jpg
   email:          your@email.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
