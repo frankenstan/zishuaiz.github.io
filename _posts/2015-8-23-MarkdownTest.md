@@ -22,7 +22,5 @@ Markdown: Syntax
     <li><a href="/projects/markdown/dingus" title="Online Markdown Web Form">Dingus</a></li>
 </ul>
 
-$$
-\fraq{1}{2}
-$$
+$$ \left( \sum_{k=1}^n a_k b_k \right)^{!!2} \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right) $$
 
