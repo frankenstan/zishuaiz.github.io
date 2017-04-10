@@ -49,7 +49,7 @@ author:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    To be a good man.
   # Social networking links used in footer. Update and remove as you like.
-  github: https://github.com/zishuaiz
+  github: zishuaiz
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    "https://plus.google.com/u/0/100935763284399445962"
 
