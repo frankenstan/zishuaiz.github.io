@@ -1,10 +1,9 @@
-title:            Site Title
-description:      Site description for the metas.
-logo:             omikron.png
-disqus_shortname: shortname
+title:            zishuai
+description:      Do what you like and enjoy what you are doing.
+logo:             logo.png
+disqus_shortname: zishuai
 # Assign a default image for your site's header and footer
 default_bg:       default_bg.jpg
-mathjax:          true
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -46,18 +45,13 @@ jekyll-archives:
 author:
   name:           zishuai
   picture:        your-photo.jpg
-  email:          your@email.com
+  email:          zisheer@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Some Details about yourself
+  description:    To be a good man.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  linkedin:
-  instagram:
-  tumblr:
+  github: https://github.com/zishuaiz
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/zisheer"
+  google_plus:    "https://plus.google.com/u/0/100935763284399445962"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -87,10 +81,9 @@ sitemap:
         - "/index.html"
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    China/Beijing
 future:      true
 markdown:    kramdown
-#markdown: redcarpet
 highlighter: rouge
 paginate:    6
 paginate_path: "/blog/:num/"
