@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'httpss://rubygems.org'
 
 group :jekyll_plugins do
     gem 'jekyll-feed'

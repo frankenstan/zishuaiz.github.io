@@ -14,7 +14,7 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-#url:              http://localhost:4000
+#url:              https://localhost:4000
 url:
 # baseurl:           
 
@@ -28,7 +28,7 @@ gems:
   - jekyll-seo-tag
 
 # Archives configuration
-# https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
+# httpss://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
 jekyll-archives:
   enabled:
     - categories
@@ -46,12 +46,12 @@ author:
   name:           zishuai
   picture:        your-photo.jpg
   email:          zisheer@gmail.com
-  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
+  # Use the coder's toolbox at https://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    To be a good man.
   # Social networking links used in footer. Update and remove as you like.
   github: zishuaiz
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "https://plus.google.com/u/0/100935763284399445962"
+  # For Google Authorship httpss://plus.google.com/authorship
+  google_plus:    "httpss://plus.google.com/u/0/100935763284399445962"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -70,7 +70,7 @@ links:
     url: /tags
 
 # Sitemap configuration
-# https://github.com/kinnetica/jekyll-plugins
+# httpss://github.com/kinnetica/jekyll-plugins
 sitemap:
     file: "/sitemap.xml"
     exclude:
@@ -80,7 +80,7 @@ sitemap:
     include_posts:
         - "/index.html"
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    China/Beijing
 future:      true
 markdown:    kramdown
@@ -88,7 +88,7 @@ highlighter: rouge
 paginate:    6
 paginate_path: "/blog/:num/"
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+# httpss://github.com/mojombo/jekyll/wiki/Permalinks
 collections:
   posts:
     output: true
