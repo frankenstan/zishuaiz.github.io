@@ -2,10 +2,11 @@
 layout: post
 title: "How to enable mathjax/latex in github pages"
 description: "tested on pc/mobile in chrome"
-headline: 
-category: Sample-Posts
+headline: some headline
+category: Latex
 tags: [mathjax, latex]
-imagefeature: picture-26.jpg
+image:
+  feature: picture-26.jpg
 comments: true
 mathjax: true
 ---

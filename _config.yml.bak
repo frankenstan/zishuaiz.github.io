@@ -1,7 +1,7 @@
-title:            Site Title
-description:      Site description for the metas.
-logo:             omikron.png
-disqus_shortname: shortname
+title:            zishuai
+description:      Do what you like and enjoy what you are doing.
+logo:             logo.png
+disqus_shortname: zishuai
 # Assign a default image for your site's header and footer
 default_bg:       default_bg.jpg
 search:           true
@@ -14,8 +14,9 @@ animated_fins:    true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
-# baseurl:
+#url:              https://localhost:4000
+url:
+# baseurl:           
 
 # Gems used
 gems:
@@ -42,20 +43,15 @@ jekyll-archives:
 
 # Owner/author information
 author:
-  name:           Your Name
+  name:           zishuai
   picture:        your-photo.jpg
-  email:          your@email.com
-  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Some Details about yourself
+  email:          zisheer@gmail.com
+  # Use the coder's toolbox at https://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
+  description:    To be a good man.
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  linkedin:
-  instagram:
-  tumblr:
+  github: zishuaiz
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/123123123123132123"
+  google_plus:    "https://plus.google.com/u/0/100935763284399445962"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -84,8 +80,8 @@ sitemap:
     include_posts:
         - "/index.html"
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    China/Beijing
 future:      true
 markdown:    kramdown
 highlighter: rouge
