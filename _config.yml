@@ -28,7 +28,7 @@ gems:
   - jekyll-seo-tag
 
 # Archives configuration
-# httpss://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
+# https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
 jekyll-archives:
   enabled:
     - categories
@@ -50,8 +50,8 @@ author:
   description:    To be a good man.
   # Social networking links used in footer. Update and remove as you like.
   github: zishuaiz
-  # For Google Authorship httpss://plus.google.com/authorship
-  google_plus:    "httpss://plus.google.com/u/0/100935763284399445962"
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    "https://plus.google.com/u/0/100935763284399445962"
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -70,7 +70,7 @@ links:
     url: /tags
 
 # Sitemap configuration
-# httpss://github.com/kinnetica/jekyll-plugins
+# https://github.com/kinnetica/jekyll-plugins
 sitemap:
     file: "/sitemap.xml"
     exclude:
@@ -88,7 +88,7 @@ highlighter: rouge
 paginate:    6
 paginate_path: "/blog/:num/"
 
-# httpss://github.com/mojombo/jekyll/wiki/Permalinks
+# https://github.com/mojombo/jekyll/wiki/Permalinks
 collections:
   posts:
     output: true

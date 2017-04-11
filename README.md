@@ -26,7 +26,7 @@ The theme features:
 * SVG graphics
 * Google Fonts
 * 361 Fontawesome icons
-* Tags for [Open Graph](httpss://developers.facebook.com/docs/opengraph/) and [Twitter Cards](httpss://dev.twitter.com/docs/cards) for a better social sharing experience
+* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience
 * Beautifully crafted [404 page](https://hmfaysal.github.io/hmfaysal-omega-theme/404.html)
 * Custom [categories](https://hmfaysal.github.io/hmfaysal-omega-theme/categories/) and [tags](https://hmfaysal.github.io/hmfaysal-omega-theme/tags/) pages for viewers pleasure
 * Stylesheets for Pygments and Coderay to make your code examples look snazzy
@@ -36,12 +36,12 @@ The theme features:
 
 For a full list of features, visit [this link](https://hmfaysal.github.io/hmfaysal-omega-theme/theme-setup/about-hmfaysal-omega/)
 
-![screenshot of HMFAYSAL OMEGA Theme](httpss://raw.github.com/hmfaysal/hmfaysal-omega-theme/gh-pages/images/hmfaysal-omega-preview.jpg)
+![screenshot of HMFAYSAL OMEGA Theme](https://raw.github.com/hmfaysal/hmfaysal-omega-theme/gh-pages/images/hmfaysal-omega-preview.jpg)
 
 ## Basic Setup for a new Jekyll site
 
 1. [Install Jekyll](https://jekyllrb.com) and read through [this installation instructions](https://hmfaysal.github.io/hmfaysal-omega-theme/theme-setup/installing-jekyll-on-windows/) if you haven't already.
-2. Fork the [HMFAYSAL OMEGA Theme](httpss://github.com/hmfaysal/hmfaysal-omega-theme/fork)
+2. Fork the [HMFAYSAL OMEGA Theme](https://github.com/hmfaysal/hmfaysal-omega-theme/fork)
 3. Clone the repo you just forked.
 4. Edit `_config.yml` to personalize your site.
 5. Check out the sample posts in `_posts` to see examples for pulling in large feature images, assigning categories and tags, and other YAML data.
@@ -87,7 +87,7 @@ gems:
   - jekyll-seo-tag
 
 # Archives configuration
-# httpss://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
+# https://github.com/jekyll/jekyll-archives/blob/master/docs/configuration.md
 jekyll-archives:
   enabled:
     - categories
@@ -114,7 +114,7 @@ author:
   linkedin:
   instagram:
   tumblr:
-  # For Google Authorship httpss://plus.google.com/authorship
+  # For Google Authorship https://plus.google.com/authorship
   google_plus:    "https://plus.google.com/123123123123132123"
 
 # Analytics and webmaster tools stuff goes here
@@ -134,7 +134,7 @@ links:
     url: /tags
 
 # Sitemap configuration
-# httpss://github.com/kinnetica/jekyll-plugins
+# https://github.com/kinnetica/jekyll-plugins
 sitemap:
     file: "/sitemap.xml"
     exclude:
@@ -152,7 +152,7 @@ highlighter: rouge
 paginate:    6
 paginate_path: "/blog/:num/"
 
-# httpss://github.com/mojombo/jekyll/wiki/Permalinks
+# https://github.com/mojombo/jekyll/wiki/Permalinks
 collections:
   posts:
     output: true
@@ -273,7 +273,7 @@ mathjax:
 
 ## Questions?
 
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](https://twitter.com/hmfaysal) or [file a GitHub Issue](httpss://github.com/hmfaysal/hmfaysal-omega-theme/issues/new).
+Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@hmfaysal](https://twitter.com/hmfaysal) or [file a GitHub Issue](https://github.com/hmfaysal/hmfaysal-omega-theme/issues/new).
 
 ---
 
@@ -287,7 +287,7 @@ If you have some specific requests for this theme, or if you need help custom co
 
 This theme is free and open source software, distributed under the [The MIT License](LICENSE). So feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
 
-If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](httpss://twitter.com/hmfaysal), that would be pretty sweet.
+If you'd like to give me credit somewhere on your blog or tweet a shout out to [@hmfaysal](https://twitter.com/hmfaysal), that would be pretty sweet.
 
 
 Warm Regards and Stay Creative,  
