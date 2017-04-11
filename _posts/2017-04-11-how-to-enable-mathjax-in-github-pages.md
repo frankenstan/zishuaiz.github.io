@@ -3,13 +3,12 @@ layout: post
 title: "How to enable mathjax/latex in github pages"
 description: "tested on pc/mobile in chrome"
 headline: 
-category: latex
+category: Sample-Posts
 tags: [mathjax, latex]
 imagefeature: picture-26.jpg
 comments: true
 mathjax: true
 ---
-
 # 1. you should have a github pages by using username.github.io or use project pages
 # 2. Fork a jekyll theme that you like or just create from scratch yourself,
 I forked from https://github.com/hmfaysal/hmfaysal-omega-theme
