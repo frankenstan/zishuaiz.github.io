@@ -10,11 +10,11 @@ comments: true
 mathjax: true
 ---
 
-#1. you should have a github pages by using username.github.io or use project pages
-#2. Fork a jekyll theme that you like or just create from scratch yourself,
+# 1. you should have a github pages by using username.github.io or use project pages
+# 2. Fork a jekyll theme that you like or just create from scratch yourself,
 I forked from https://github.com/hmfaysal/hmfaysal-omega-theme
 This theme already enabled the mathjax/latex
-#3. If you create a new one by yourself, you should do this:
+# 3. If you create a new one by yourself, you should do this:
  - in `_config.yml`, use `markdown: kramdown`
  - in `_layouts/home.html` or `_includes/head.html` add:
  ```
@@ -47,6 +47,7 @@ This theme already enabled the mathjax/latex
 </script>
 {% endif %}
  ```
+  - add `mathjax: true` in your post
   - test your website, it maybe not working on latex/mathjax
 
  # Problems and solutions
@@ -110,13 +111,3 @@ $$
     \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})},
      \quad\quad \text{for $|q|<1$}.
 $$
-
-**Maxwell's Equations**
-
-
-$$\begin{align}
-  \nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} & = \frac{4\pi}{c}\vec{\mathbf{j}} \\
-  \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
-  \nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
-  \nabla \cdot \vec{\mathbf{B}} & = 0
-\end{align}$$  
