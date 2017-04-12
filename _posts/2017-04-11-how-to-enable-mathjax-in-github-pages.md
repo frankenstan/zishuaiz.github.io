@@ -5,8 +5,7 @@ description: "tested on pc/mobile in chrome"
 headline: some headline
 category: Latex
 tags: [mathjax, latex]
-image:
-  feature: picture-26.jpg
+imagefeature: picture-26.jpg
 comments: true
 mathjax: true
 ---
@@ -17,6 +16,7 @@ This theme already enabled the mathjax/latex
 # 3. If you create a new one by yourself, you should do this:
  - in `_config.yml`, use `markdown: kramdown`
  - in `_layouts/home.html` or `_includes/head.html` add:
+
  ```
  {% if page.mathjax %}
 
@@ -47,6 +47,7 @@ This theme already enabled the mathjax/latex
 </script>
 {% endif %}
  ```
+
   - add `mathjax: true` in your post
   - test your website, it maybe not working on latex/mathjax
 
