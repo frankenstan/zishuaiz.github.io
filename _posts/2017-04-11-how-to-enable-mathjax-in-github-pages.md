@@ -2,7 +2,7 @@
 layout: post
 title: "How to enable mathjax/latex in github pages"
 description: "tested on pc/mobile in chrome"
-headline: some headline
+headline: ---------------------------
 category: Latex
 tags: [mathjax, latex]
 imagefeature: picture-26.jpg
@@ -11,7 +11,7 @@ mathjax: true
 ---
 # 1. you should have a github pages by using username.github.io or use project pages
 # 2. Fork a jekyll theme that you like or just create from scratch yourself,
-I forked from https://github.com/hmfaysal/hmfaysal-omega-theme
+I forked from [hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme)
 This theme already enabled the mathjax/latex
 # 3. If you create a new one by yourself, you should do this:
  - in `_config.yml`, use `markdown: kramdown`
