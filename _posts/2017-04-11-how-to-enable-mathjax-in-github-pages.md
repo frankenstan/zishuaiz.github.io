@@ -51,14 +51,14 @@ This theme already enabled the mathjax/latex
   - add `mathjax: true` in your post
   - test your website, it maybe not working on latex/mathjax
 
- # Problems and solutions
+# Problems and solutions
 
 - I forked this theme and I see the origin theme support mathjax/latex, but it is nothing in my theme, all the source
 code are the same, but why, why my forked jekyll theme not support mathjax/latex, why my forked jekyll not showing
 like the origin.
 
 - I notice that the chrome show that `This page is trying to load scripts from unauthenticated sources` in top right of
-the address bar, when I click to load the script, the chrome show that this site is unsafe, and the site bar is become
+the address bar, when I click to load the script, the chrome show that this site is unsafe, and the site bar become
 red.
 
 - So how to enable your github pages support   `https`,
