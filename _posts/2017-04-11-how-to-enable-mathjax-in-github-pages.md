@@ -2,7 +2,7 @@
 layout: post
 title: "How to enable mathjax/latex in github pages"
 description: "tested on pc/mobile in chrome"
-headline: ---------------------------
+headline: ===============================================================================
 category: Latex
 tags: [mathjax, latex]
 imagefeature: picture-26.jpg
