@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>https://zishuaiz.github.io/</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/blog/temp</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/categories/index.html</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/blog/python%E9%80%92%E5%BD%92%E8%A7%A3%E6%9E%90%E5%AD%97%E5%85%B8</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/blog/python%E8%A7%A3%E6%9E%90yaml</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/blog/latex-reference</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/blog/install-jekyll-on-windows10</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/blog/gesture-authentication</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/about/</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/tags/index.html</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/blog/MathTest</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://zishuaiz.github.io/blog/how-to-enable-mathjax-in-github-pages</loc>
+  <lastmod>2017-04-14T15:24:41+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+</urlset>
